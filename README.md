@@ -2,7 +2,6 @@
 ### Hi there 👋, Ratan Sarker
 #### Frontend Web Developer (WordPress)
 
-
 Hello! I'm Ratan Sarker, a WordPress whiz and frontend fanatic. I blend code and creativity to craft pixel-perfect websites that pop.
 
 With a coding obsession since 2020, I've got HTML, CSS, and JavaScript at my fingertips. But WordPress is my playground—I turn themes into magic.
@@ -33,10 +32,7 @@ Skills: / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratansarker&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ratansarker)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ratansarker)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ratansarker)  
 
-![Profile views](https://gpvc.arturio.dev/ratansarker)  
